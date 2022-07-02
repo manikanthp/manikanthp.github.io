@@ -25,7 +25,7 @@ navigation: # Navigation links
   - {name: 'Blogs', link: '/blogs'}
   - {name: 'Projects', link: '/projects'}
   - {name: 'Skills', link: '/skills'}
-  - {name: 'About', link: '/about/'}
+  - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
@@ -76,7 +76,7 @@ collections:
     sort_by: date
     output: true
     permalink: :title
-  projects:
+  projects_done:
     sort_by: date
     output: true 
     permalink: :title
