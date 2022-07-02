@@ -24,6 +24,7 @@ layout: compress
         <h1 class="hero__title">{{ page.title }}</h1>
       </div>
     </div>
+    
     <main class="site__content">
 
       <div class="container">
@@ -35,6 +36,43 @@ layout: compress
       </div>
 
     </main>
+
+    {% if page.title == 'Blogs' %}
+    <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+            {% for post in site.posts %}
+              {% include card.html %}
+            {% endfor %}
+
+            <!-- {% include pagination.html %} -->
+          </div>
+        </div>
+      </section>
+    </main>
+    {% endif %}
+
+
+    {% if page.title == 'Projects' %}
+    <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+            {% for post in site.projects %}
+              {% include card.html %}
+            {% endfor %}
+
+            <!-- {% include pagination.html %} -->
+          </div>
+        </div>
+      </section>
+    </main>
+    {% endif %}
+
+
 
     {% include footer.html %}
 
