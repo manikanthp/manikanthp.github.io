@@ -31,7 +31,7 @@ navigation: # Navigation links
 tagline: >
   Hi I am Manikanth, and this is my website! Here you can find some of my works and blogs. If you have any question, feel free to get in touch.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/intro_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: manikanthgoud123@gmail.com # email for form submission
 
