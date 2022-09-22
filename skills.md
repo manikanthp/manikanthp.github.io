@@ -54,6 +54,19 @@ Some of the amazing courses and certifications that I have completed to expand m
 
 
 <div class="grid-item">
+<a href="https://www.appliedaicourse.com/certificate/966c8a8007" target="_blank">
+<div class="card hoverable">
+<img src="../assets/img/cert/appliedai.jpg">
+<div class="card-body">
+<p class="card-title">Certified Data Scientist</p>
+<p class="card-text">by srikanth varma chekuri (Applied AI Course)</p>
+<div class="row ml-1 mr-1 p-0"></div>
+</div>
+</div>
+</a>
+</div>
+
+<div class="grid-item">
 <a href="https://www.coursera.org/account/accomplishments/certificate/EJCJCHBR5WA9" target="_blank">
 <div class="card hoverable">
 <img src="../assets/img/cert/NLP_udemy_cert.jpg">
