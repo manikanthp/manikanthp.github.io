@@ -21,9 +21,10 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
   - {name: 'Blogs', link: '/blogs'}
   - {name: 'Projects', link: '/projects'}
+  - {name: 'Research', link: '/projects'}
+  - {name: 'LLM Course', link: '/skills'}
   - {name: 'Skills', link: '/skills'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
