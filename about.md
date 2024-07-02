@@ -7,7 +7,7 @@ permalink: /about/
 <h1 align="center">Hi there, I’m Manikanth Palamakula 👨‍💻</h1>
 <hr class="dashed">
 <p>
-I am a Data Science specialist at LTIMindtree in India, with a strong passion for Generative AI and Data Science technologies. I am dedicated to continuous learning and exploring cutting-edge advancements to create innovative solutions. Solving complex problems is my forte, and I thrive on acquiring new knowledge. I am enthusiastic about sharing insights and discoveries in the fields of Generative AI and Data Science."
+I am <b>Senior Data Scientist</b> at <b>Emmes</b>, with a strong passion for Generative AI and Data Science technologies. I am dedicated to continuous learning and exploring cutting-edge advancements to create innovative solutions. Solving complex problems is my forte, and I thrive on acquiring new knowledge. I am enthusiastic about sharing insights and discoveries in the fields of Generative AI and Data Science."
 </p>
 <hr class="dashed">
 

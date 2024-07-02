@@ -5,12 +5,14 @@ permalink: /LLM_course/
 ---
 
 
+
 ### Coming soon...
 
 The content includes the following topics:
 
-### LLM Fundamentals
-    - Histroy and Background
+## 📖 LLM Fundamentals
+
+[Histroy and Background](https://www.example.com)
   
 
 ### Basics and architecture of large language models (LLMs)
